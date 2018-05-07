@@ -22,6 +22,6 @@ class Test2 {
 
     @Test
     void getK() {
-        assertEquals("24.81",testingClass.getK(21, 44, 27.5));
+        assertEquals("24.8",testingClass.getK(21, 44, 27.5));
       }
 } 
